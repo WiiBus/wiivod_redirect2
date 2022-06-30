@@ -38,6 +38,7 @@ section button{
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
+    color: #fff;
 }
 
 button:hover{
